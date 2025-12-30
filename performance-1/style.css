@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; margin: 24px;
+  background-color: #f9f9f9; color: #222; }
+.app { max-width: 900px; margin: 0 auto;
+  padding: 24px; background: #fff; border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+.top { display: flex; gap: 24px; align-items: 
+    center; margin-bottom: 12px; }
+.total { font-size: 1.1rem; }
+.counter button { padding: 8px 12px; }
+.count { margin-left: 8px; font-weight: bold; }
+.product-list ul { max-height: 360px; overflow: auto; padding-left: 18px; }
+.notice { font-size: 0.9rem; color: #666; }
+.selected { margin: 12px 0; }
+.instructions { margin-top: 16px; color: #333; }
